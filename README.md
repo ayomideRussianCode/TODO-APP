@@ -26,9 +26,7 @@ Before you start, make sure you have the following installed on your machine:
 2. Git
 
 # Step 2: Clone the Repository
-1. Open your terminal or command prompt.
-2. Run this command to clone the repository:
-   git clone https://github.com/your-username/todo-app.git
+1. Clone git
   
 3. Navigate into the project folder:
    cd todo-app
